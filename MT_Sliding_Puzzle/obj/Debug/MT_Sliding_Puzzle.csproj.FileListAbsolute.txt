@@ -1,0 +1,10 @@
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\bin\Debug\MT_Sliding_Puzzle.exe.config
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\bin\Debug\MT_Sliding_Puzzle.exe
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\bin\Debug\MT_Sliding_Puzzle.pdb
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.csproj.AssemblyReference.cache
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.MT_Sliding_Puzzle.resources
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.Properties.Resources.resources
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.csproj.GenerateResource.cache
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.exe
+C:\Users\Moonika\OneDrive - Tallinn Polytechnic School\kta-24\OOP\kursusetoo_Moonika_Tamm\MT_Sliding_Puzzle\MT_Sliding_Puzzle\obj\Debug\MT_Sliding_Puzzle.pdb
